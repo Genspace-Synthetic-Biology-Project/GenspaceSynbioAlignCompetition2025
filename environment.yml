@@ -1,0 +1,14 @@
+name: petase
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - biopython
+  - jupyterlab
+  - ipykernel
